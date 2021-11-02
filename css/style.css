@@ -54,3 +54,7 @@ background-color: rgba(0,0,0,.6);
   min-height: 200px;
   position: relative;
 }
+#main-footer{
+  background-color: #000;
+  color: #fff;
+}
